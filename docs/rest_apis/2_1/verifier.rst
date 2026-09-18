@@ -298,7 +298,3 @@ Verifier
 
     Returns HTTP 204 with empty body on success.
 
-    :>json int code: HTTP status code
-    :>json string status: Status as string
-    :>json object results: Results as a JSON object (empty)
-
